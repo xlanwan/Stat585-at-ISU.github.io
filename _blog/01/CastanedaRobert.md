@@ -1,6 +1,6 @@
 ---
-title: "Some title"
-author: "First and lastname"
+title: "Help with the group_by Function"
+author: "Robert Castaneda"
 layout: post
 topic: "01"
 short-topic: Asking Good Questions
