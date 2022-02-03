@@ -1,5 +1,5 @@
 ---
-author: Kieran Liming
+author: "Kieran Liming"
 title: "Categorizing NA data"
 layout: post
 topic: "01"
