@@ -1,9 +1,12 @@
 ---
-layout: blog
+author: "Abigail Collins"
+title: "Asking Good Questions: Bad Question" 
+layout: post
 topic: "01"
 short-topic: Asking Good Questions
 due-date: 2022-01-27
 root: ../../
+output: github_document 
 ---
 
 ## Prompt:
