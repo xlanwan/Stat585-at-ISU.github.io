@@ -1,5 +1,5 @@
 ---
-title: "Asking Good Questions on Stach Overflow"
+title: "Asking Good Questions on Stack Overflow"
 author: "Zhili Qiao"
 layout: post
 topic: "01"
