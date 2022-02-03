@@ -1,5 +1,7 @@
 ---
-layout: blog
+author: Lin Quan
+title: "How to make sure the geom_text graph labels stays at the right place?"
+layout: post
 topic: "01"
 short-topic: Asking Good Questions
 due-date: 2022-01-27
