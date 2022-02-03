@@ -1,5 +1,7 @@
 ---
-layout: blog
+title: "Asking Good Questions"
+author: "Danyang Zhang"
+layout: post
 topic: "01"
 short-topic: Asking Good Questions
 due-date: 2022-01-27
