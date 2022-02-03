@@ -1,5 +1,7 @@
 ---
-layout: blog
+author: "Wangqian Ju"
+title: "Pass variables into a formula inside an R function"
+layout: post
 topic: "01"
 short-topic: Asking Good Questions
 due-date: 2022-01-27
