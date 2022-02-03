@@ -1,6 +1,6 @@
 ---
 title: "Blog 1 - Asking Good Questions"
-author: Yuhang LIN
+author: "Yuhang LIN"
 layout: post
 topic: "01"
 short-topic: Asking Good Questions
