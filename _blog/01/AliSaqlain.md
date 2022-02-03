@@ -1,9 +1,12 @@
 ---
-layout: blog
+author: "Saqlain Ali"
+title: "Warning: Expected min height of view"
+layout: post
 topic: "01"
 short-topic: Asking Good Questions
 due-date: 2022-01-27
 root: ../../
+output: github_document
 ---
 
 ## Prompt:
