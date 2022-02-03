@@ -1,5 +1,7 @@
 ---
-layout: blog
+title: "Blog 1 - Asking Good Questions"
+author: Yuhang LIN
+layout: post
 topic: "01"
 short-topic: Asking Good Questions
 due-date: 2022-01-27
