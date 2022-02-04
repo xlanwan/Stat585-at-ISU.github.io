@@ -1,5 +1,7 @@
 ---
-layout: blog
+author: "Bufei Guo"
+title: "Ifelse statement : if the strings starts or ends with a particular set of characters, delete them"
+layout: post
 topic: "01"
 short-topic: Asking Good Questions
 due-date: 2022-01-27
